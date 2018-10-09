@@ -4,16 +4,16 @@
 
 # Site
 title: 前端文章
-subtitle:
-description:
-keywords:
+subtitle: 数数自己的坑
+description: 记录从入门到当前的心得和笔记
+keywords: 前端 入门 笔记
 author: 小花爷
-language:
+language: 中文简体
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://www.jianshu.com/u/f3eb5337fb50
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
